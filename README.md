@@ -1,6 +1,6 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1> 𝐇𝐞𝐥𝐥𝐨! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-### 📬 Find me at
+## 📬 Find me at
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/dibbles21/)](https://github.com/dibbles21/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielwakeling/)](https://www.linkedin.com/in/danielwakeling)
