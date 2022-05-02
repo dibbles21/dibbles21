@@ -9,7 +9,7 @@
 
 I'm Dan, and I build transport emissions models in R at [Ricardo Energy & Environment](https://ee.ricardo.com/). I ❤️ all things data/science/analytics, including:
 * Solving [Chess puzzles](https://www.chess.com/stats/puzzles/lordyleroy) ♟️
-* Solving mathematical programming challenges at [Project Euler](https://projecteuler.net/archives) ➕💻. 
+* Solving mathematical programming challenges at [Project Euler](https://projecteuler.net/profile/dibbles21.png) ➕💻. 
 
 ## 📦 R Packages Contributed
 
