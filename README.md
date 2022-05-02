@@ -11,6 +11,6 @@ I'm Dan, and I build transport emissions models in R at [Ricardo Energy & Enviro
 * Solving [Chess puzzles](https://www.chess.com/stats/puzzles/lordyleroy) ♟️
 * Solving mathematical programming challenges at [Project Euler](https://projecteuler.net/archives) ➕💻. 
 
-## 📦 R Packages Contributed To
+## 📦 R Packages Contributed
 
-[chessR](https://github.com/JaseZiv/chessR)
+Created a function to extract clock and move times from Lichess data for the [chessR](https://github.com/JaseZiv/chessR) package. 
