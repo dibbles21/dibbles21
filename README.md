@@ -8,7 +8,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danwakeling7@gmail.com)](mailto:danwakeling7@gmail.com)
 
 I'm Dan, and I build transport emissions models in R at [Ricardo Energy & Environment](https://ee.ricardo.com/). I ❤️ all things data/science/analytics, including:
+* Solving [Chess puzzles](https://www.chess.com/stats/puzzles/lordyleroy) ♟️
+* Solving mathematical programming challenges at [Project Euler](https://projecteuler.net/archives) ➕💻. 
 
-## 📦 Packages Contributed
+## 📦 R Packages Contributed To
 
 [chessR](https://github.com/JaseZiv/chessR)
