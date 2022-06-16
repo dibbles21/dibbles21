@@ -1,4 +1,4 @@
-<h1> 𝐇𝐞𝐥𝐥𝐨! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+# 𝐇𝐞𝐥𝐥𝐨!
 
 ## 📬 Find me at
 
