@@ -2,7 +2,6 @@
 
 ## 📬 Find me at
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/dibbles21/)](https://github.com/dibbles21/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielwakeling/)](https://www.linkedin.com/in/danielwakeling)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danwakeling7@gmail.com)](mailto:danwakeling7@gmail.com)
 
