@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielwakeling/)](https://www.linkedin.com/in/danielwakeling)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danwakeling7@gmail.com)](mailto:danwakeling7@gmail.com)
 
-I'm Dan, and I build transport emissions models in R at [Ricardo Energy & Environment](https://ee.ricardo.com/). I ❤️ all things data/science/analytics/🐶, including:
+I'm Dan, and I build transport emissions models in R at [Ricardo](https://ee.ricardo.com/). I ❤️ all things data/science/analytics/🐶, including:
 * Solving [Chess puzzles](https://www.chess.com/stats/puzzles/lordyleroy) ♟️
 * Solving mathematical programming challenges at [Project Euler](https://projecteuler.net/profile/dibbles21.png) 💻
 
