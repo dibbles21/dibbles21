@@ -12,4 +12,4 @@ I'm Dan, and I build transport emissions models in R at [Ricardo](https://ee.ric
 
 ## 📦 R Packages Contributed
 
-Created a function to extract clock and move times from Lichess data for the [chessR](https://github.com/JaseZiv/chessR) package. 
+Created a [function to extract clock and move times from Lichess data](https://github.com/JaseZiv/chessR/blob/master/R/lichess_clock_move_time.R) for the [chessR](https://github.com/JaseZiv/chessR) package. 
